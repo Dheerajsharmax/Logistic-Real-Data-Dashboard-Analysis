@@ -1,0 +1,501 @@
+﻿Employee_ID,Employee_Name,Role,City,Hire_Date,Employment_Status
+EMP00001,Kavya Kumar,Warehouse Associate,Kolkata,2025-10-29,Active
+EMP00002,Reyansh Gupta,Operations,Chennai,2023-07-15,Active
+EMP00003,Vivaan Kumar,Operations,Jaipur,2019-03-05,Active
+EMP00004,Isha Mehta,Warehouse Associate,Jaipur,2020-06-12,Active
+EMP00005,Aarav Yadav,Operations,Delhi,2026-03-26,Active
+EMP00006,Arjun Reddy,Operations,Ahmedabad,2024-11-24,Active
+EMP00007,Reyansh Gupta,Warehouse Associate,Chandigarh,2025-01-28,Active
+EMP00008,Arjun Gupta,Supervisor,Bhopal,2018-06-11,Active
+EMP00009,Simran Yadav,Customer Support,Hyderabad,2021-05-10,Active
+EMP00010,Kavya Sharma,Manager,Jaipur,2022-07-08,Active
+EMP00011,Priya Shah,Warehouse Associate,Ahmedabad,2024-11-20,Exited
+EMP00012,Isha Singh,Analyst,Bhopal,2018-11-28,Active
+EMP00013,Aditi Mehta,Manager,Mumbai,2024-08-12,Active
+EMP00014,Kavya Verma,Analyst,Lucknow,2023-05-12,Active
+EMP00015,Ishaan Verma,Supervisor,Bhopal,2023-01-27,Active
+EMP00016,Neha Shah,Warehouse Associate,Delhi,2025-07-19,Active
+EMP00017,Kabir Das,Customer Support,Delhi,2024-11-01,Active
+EMP00018,Priya Joshi,Analyst,Mumbai,2024-03-26,Active
+EMP00019,Ishaan Shah,Customer Support,Pune,2022-05-17,Active
+EMP00020,Sneha Joshi,Supervisor,Bengaluru,2026-07-04,Active
+EMP00021,Simran Gupta,Operations,Kolkata,2025-05-15,Active
+EMP00022,Meera Malhotra,Analyst,Pune,2020-08-11,Active
+EMP00023,Kabir Yadav,Analyst,Indore,2024-12-09,Active
+EMP00024,Vivaan Gupta,Customer Support,Kolkata,2022-12-24,Active
+EMP00025,Pooja Gupta,Operations,Nagpur,2025-12-05,Active
+EMP00026,Aarav Patel,Supervisor,Bengaluru,2021-04-09,Active
+EMP00027,Arjun Reddy,Analyst,Hyderabad,2024-12-23,Active
+EMP00028,Kavya Jain,Manager,Bhopal,2020-04-12,Active
+EMP00029,Ishaan Singh,Supervisor,Bengaluru,2026-01-21,Active
+EMP00030,Priya Yadav,Manager,Kolkata,2019-07-08,Active
+EMP00031,Arjun Yadav,Operations,Noida,2019-07-24,Active
+EMP00032,Krishna Yadav,Operations,Surat,2026-07-30,Active
+EMP00033,Krishna Yadav,Analyst,Hyderabad,2020-06-05,Active
+EMP00034,Reyansh Patel,Manager,Chennai,2022-07-17,Exited
+EMP00035,Isha Patel,Operations,Delhi,2021-12-16,Active
+EMP00036,Isha Patel,Operations,Jaipur,2024-11-20,Active
+EMP00037,Aditya Shah,Manager,Chennai,2020-02-15,Active
+EMP00038,Meera Jain,Manager,Pune,2020-12-14,Active
+EMP00039,Priya Shah,Supervisor,Chennai,2025-11-04,Active
+EMP00040,Neha Kumar,Operations,Nagpur,2026-01-14,Active
+EMP00041,Aarav Kumar,Supervisor,Ahmedabad,2019-07-29,Active
+EMP00042,Rohan Kumar,Analyst,Ahmedabad,2022-04-08,Active
+EMP00043,Meera Kumar,Warehouse Associate,Lucknow,2022-01-06,Active
+EMP00044,Kavya Kumar,Warehouse Associate,Gurugram,2022-06-30,Active
+EMP00045,Aarav Das,Supervisor,Kolkata,2022-07-25,On Leave
+EMP00046,Isha Joshi,Supervisor,Bengaluru,2018-06-06,Active
+EMP00047,Sneha Singh,Analyst,Pune,2025-08-21,Active
+EMP00048,Aditya Kumar,Supervisor,Pune,2020-03-02,Active
+EMP00049,Kavya Kumar,Customer Support,Chennai,2020-04-07,Active
+EMP00050,Arjun Singh,Supervisor,Bengaluru,2025-02-03,Active
+EMP00051,Meera Sharma,Customer Support,Kochi,2026-06-25,Active
+EMP00052,Aarav Sharma,Analyst,Jaipur,2025-11-21,Active
+EMP00053,Isha Verma,Operations,Lucknow,2020-07-21,Active
+EMP00054,Reyansh Gupta,Operations,Surat,2024-07-10,Active
+EMP00055,Aditi Das,Manager,Kochi,2019-06-05,Active
+EMP00056,Sneha Verma,Operations,Chennai,2021-07-15,Active
+EMP00057,Ananya Kumar,Customer Support,Nagpur,2020-03-21,Active
+EMP00058,Neha Jain,Manager,Jaipur,2019-12-27,Active
+EMP00059,Sneha Verma,Customer Support,Lucknow,2025-09-16,Active
+EMP00060,Ishaan Jain,Operations,Surat,2025-10-09,Active
+EMP00061,Kavya Joshi,Warehouse Associate,Surat,2019-05-02,Active
+EMP00062,Vivaan Sharma,Operations,Surat,2021-03-27,Active
+EMP00063,Priya Kumar,Operations,Hyderabad,2018-04-12,Active
+EMP00064,Sneha Verma,Supervisor,Mumbai,2025-03-23,Active
+EMP00065,Neha Gupta,Supervisor,Pune,2020-07-20,Active
+EMP00066,Ishaan Reddy,Customer Support,Pune,2023-03-29,Active
+EMP00067,Meera Mehta,Analyst,Noida,2022-10-06,Active
+EMP00068,Meera Kumar,Customer Support,Bengaluru,2019-09-26,Active
+EMP00069,Aditya Reddy,Customer Support,Chennai,2021-02-13,Active
+EMP00070,Vivaan Shah,Analyst,Bhopal,2018-12-22,Active
+EMP00071,Ananya Shah,Warehouse Associate,Gurugram,2019-05-29,Active
+EMP00072,Arjun Mehta,Supervisor,Bhopal,2025-06-02,Active
+EMP00073,Vivaan Kumar,Customer Support,Surat,2021-03-09,Active
+EMP00074,Pooja Mehta,Analyst,Surat,2021-12-19,On Leave
+EMP00075,Kabir Malhotra,Supervisor,Nagpur,2024-01-22,On Leave
+EMP00076,Kavya Jain,Customer Support,Chandigarh,2025-09-04,Active
+EMP00077,Neha Mehta,Warehouse Associate,Ahmedabad,2021-10-25,Active
+EMP00078,Isha Malhotra,Warehouse Associate,Noida,2025-08-15,Active
+EMP00079,Rohan Yadav,Analyst,Indore,2023-01-04,Active
+EMP00080,Neha Malhotra,Manager,Kochi,2018-06-13,Active
+EMP00081,Aditya Jain,Warehouse Associate,Gurugram,2026-04-14,Active
+EMP00082,Ishaan Reddy,Manager,Gurugram,2020-04-16,Exited
+EMP00083,Pooja Gupta,Customer Support,Jaipur,2024-07-18,Active
+EMP00084,Isha Das,Manager,Bhopal,2025-08-14,Active
+EMP00085,Reyansh Reddy,Analyst,Kolkata,2025-01-12,Active
+EMP00086,Kavya Patel,Operations,Kolkata,2023-04-30,Active
+EMP00087,Priya Mehta,Operations,Noida,2020-07-09,Active
+EMP00088,Neha Yadav,Manager,Noida,2023-08-28,Active
+EMP00089,Aditya Patel,Analyst,Kolkata,2022-06-22,Active
+EMP00090,Aditya Jain,Manager,Delhi,2023-10-18,Active
+EMP00091,Meera Das,Operations,Indore,2021-01-05,Active
+EMP00092,Simran Malhotra,Operations,Mumbai,2024-01-06,Active
+EMP00093,Rohan Patel,Analyst,Bengaluru,2022-03-29,Active
+EMP00094,Simran Shah,Manager,Mumbai,2026-07-01,Active
+EMP00095,Pooja Reddy,Warehouse Associate,Chandigarh,2018-12-24,Active
+EMP00096,Krishna Malhotra,Manager,Indore,2024-05-02,Active
+EMP00097,Rohan Verma,Operations,Ahmedabad,2022-07-15,Active
+EMP00098,Priya Patel,Warehouse Associate,Mumbai,2023-01-13,Active
+EMP00099,Ishaan Sharma,Operations,Mumbai,2022-08-07,Active
+EMP00100,Krishna Joshi,Customer Support,Gurugram,2019-03-10,Active
+EMP00101,Reyansh Mehta,Supervisor,Kochi,2023-01-12,Active
+EMP00102,Aditi Kumar,Customer Support,Chandigarh,2021-08-31,Active
+EMP00103,Kabir Singh,Warehouse Associate,Ahmedabad,2020-01-20,Active
+EMP00104,Meera Das,Customer Support,Ahmedabad,2026-02-03,Exited
+EMP00105,Kavya Verma,Supervisor,Indore,2019-12-09,Active
+EMP00106,Vivaan Patel,Warehouse Associate,Hyderabad,2021-09-08,Active
+EMP00107,Isha Sharma,Manager,Bengaluru,2021-03-20,Exited
+EMP00108,Aditi Malhotra,Manager,Kolkata,2021-12-20,Active
+EMP00109,Vivaan Malhotra,Operations,Bengaluru,2022-09-14,Active
+EMP00110,Sneha Malhotra,Warehouse Associate,Chennai,2023-07-07,Active
+EMP00111,Priya Joshi,Warehouse Associate,Kochi,2020-12-12,Active
+EMP00112,Pooja Jain,Warehouse Associate,Lucknow,2021-01-13,On Leave
+EMP00113,Rahul Yadav,Operations,Lucknow,2024-03-06,Active
+EMP00114,Kabir Shah,Supervisor,Indore,2024-02-07,Active
+EMP00115,Isha Malhotra,Customer Support,Pune,2023-02-13,Active
+EMP00116,Sneha Jain,Supervisor,Chandigarh,2022-07-17,Active
+EMP00117,Sneha Reddy,Customer Support,Ahmedabad,2018-12-27,Active
+EMP00118,Rahul Malhotra,Operations,Gurugram,2022-12-14,Active
+EMP00119,Ananya Reddy,Manager,Kolkata,2019-12-17,Active
+EMP00120,Meera Jain,Customer Support,Surat,2018-08-22,Active
+EMP00121,Kavya Kumar,Analyst,Nagpur,2023-04-16,Active
+EMP00122,Rohan Malhotra,Supervisor,Bengaluru,2022-07-31,Exited
+EMP00123,Aditi Sharma,Analyst,Hyderabad,2022-08-27,Exited
+EMP00124,Arjun Shah,Customer Support,Indore,2024-05-29,Exited
+EMP00125,Ishaan Yadav,Operations,Ahmedabad,2020-12-19,Active
+EMP00126,Priya Reddy,Warehouse Associate,Indore,2020-12-08,Active
+EMP00127,Rohan Joshi,Analyst,Pune,2019-07-04,Active
+EMP00128,Simran Malhotra,Supervisor,Noida,2018-08-31,Active
+EMP00129,Kavya Shah,Operations,Bengaluru,2026-01-19,Active
+EMP00130,Aarav Yadav,Customer Support,Nagpur,2020-07-09,Active
+EMP00131,Krishna Sharma,Analyst,Chandigarh,2021-12-06,Active
+EMP00132,Arjun Patel,Manager,Noida,2025-12-09,Active
+EMP00133,Aditya Shah,Analyst,Bengaluru,2019-11-11,Active
+EMP00134,Priya Singh,Manager,Surat,2019-07-13,Active
+EMP00135,Sneha Sharma,Warehouse Associate,Chennai,2024-04-22,Active
+EMP00136,Neha Patel,Analyst,Bengaluru,2021-02-06,Active
+EMP00137,Kabir Mehta,Warehouse Associate,Lucknow,2020-03-28,Active
+EMP00138,Kabir Jain,Manager,Nagpur,2024-10-26,Active
+EMP00139,Reyansh Reddy,Warehouse Associate,Jaipur,2020-04-28,Active
+EMP00140,Kavya Gupta,Analyst,Delhi,2018-01-18,Active
+EMP00141,Pooja Patel,Analyst,Surat,2025-03-27,Exited
+EMP00142,Rohan Yadav,Customer Support,Noida,2026-06-28,Active
+EMP00143,Arjun Das,Supervisor,Noida,2025-12-10,Active
+EMP00144,Rahul Reddy,Supervisor,Gurugram,2019-01-04,Active
+EMP00145,Neha Singh,Supervisor,Mumbai,2022-02-04,Active
+EMP00146,Krishna Shah,Operations,Chandigarh,2025-09-27,Active
+EMP00147,Ishaan Joshi,Customer Support,Bengaluru,2023-07-14,Active
+EMP00148,Aditya Joshi,Customer Support,Hyderabad,2020-08-13,Exited
+EMP00149,Neha Sharma,Analyst,Gurugram,2021-02-27,Active
+EMP00150,Kavya Patel,Operations,Ahmedabad,2020-09-28,Active
+EMP00151,Sneha Yadav,Customer Support,Chennai,2023-07-18,Active
+EMP00152,Pooja Kumar,Warehouse Associate,Mumbai,2023-09-17,Active
+EMP00153,Arjun Sharma,Analyst,Hyderabad,2024-05-15,Active
+EMP00154,Kavya Singh,Supervisor,Delhi,2020-06-07,Active
+EMP00155,Pooja Sharma,Manager,Nagpur,2024-04-22,Active
+EMP00156,Ishaan Malhotra,Operations,Mumbai,2021-11-05,Active
+EMP00157,Aditi Singh,Warehouse Associate,Chandigarh,2018-05-11,Active
+EMP00158,Vivaan Das,Analyst,Kolkata,2024-11-01,Active
+EMP00159,Kavya Sharma,Warehouse Associate,Pune,2018-11-12,Active
+EMP00160,Aarav Reddy,Warehouse Associate,Delhi,2018-01-31,Active
+EMP00161,Aarav Gupta,Customer Support,Delhi,2024-03-11,Active
+EMP00162,Aditi Singh,Customer Support,Nagpur,2018-10-06,Active
+EMP00163,Sneha Gupta,Operations,Bhopal,2022-08-27,Active
+EMP00164,Pooja Verma,Warehouse Associate,Pune,2020-12-06,Active
+EMP00165,Meera Shah,Customer Support,Gurugram,2026-04-02,Active
+EMP00166,Aarav Joshi,Operations,Surat,2020-09-14,Active
+EMP00167,Neha Sharma,Manager,Pune,2018-11-27,Active
+EMP00168,Ishaan Singh,Supervisor,Nagpur,2019-03-11,Active
+EMP00169,Simran Yadav,Supervisor,Ahmedabad,2026-08-29,Exited
+EMP00170,Krishna Mehta,Customer Support,Lucknow,2026-05-31,Active
+EMP00171,Kabir Das,Warehouse Associate,Surat,2019-03-03,Active
+EMP00172,Krishna Shah,Customer Support,Lucknow,2020-12-11,Active
+EMP00173,Neha Reddy,Manager,Mumbai,2018-04-11,Active
+EMP00174,Simran Kumar,Manager,Bengaluru,2025-03-09,Active
+EMP00175,Ananya Patel,Supervisor,Indore,2025-11-12,Active
+EMP00176,Ishaan Kumar,Manager,Noida,2024-03-06,Active
+EMP00177,Ishaan Gupta,Operations,Kochi,2022-05-30,Active
+EMP00178,Isha Mehta,Manager,Hyderabad,2021-03-26,Active
+EMP00179,Aditi Verma,Supervisor,Ahmedabad,2020-07-04,Active
+EMP00180,Reyansh Verma,Warehouse Associate,Kolkata,2024-03-27,Active
+EMP00181,Rohan Verma,Operations,Nagpur,2023-01-01,Active
+EMP00182,Simran Malhotra,Customer Support,Bhopal,2022-01-27,Active
+EMP00183,Simran Mehta,Operations,Chennai,2021-04-21,Active
+EMP00184,Rohan Kumar,Analyst,Indore,2024-05-22,Active
+EMP00185,Sneha Yadav,Operations,Chandigarh,2026-08-25,Active
+EMP00186,Vivaan Malhotra,Customer Support,Jaipur,2019-01-27,Active
+EMP00187,Kavya Reddy,Supervisor,Jaipur,2024-10-08,Active
+EMP00188,Ishaan Jain,Manager,Chennai,2021-12-19,Active
+EMP00189,Aditi Reddy,Supervisor,Kolkata,2023-09-27,Active
+EMP00190,Aditi Kumar,Warehouse Associate,Mumbai,2024-12-27,Active
+EMP00191,Pooja Reddy,Analyst,Noida,2020-10-26,Active
+EMP00192,Meera Gupta,Manager,Ahmedabad,2019-10-02,Active
+EMP00193,Rohan Gupta,Customer Support,Gurugram,2018-03-24,Active
+EMP00194,Priya Malhotra,Analyst,Nagpur,2026-06-13,Active
+EMP00195,Isha Malhotra,Manager,Kolkata,2024-12-22,On Leave
+EMP00196,Ananya Shah,Supervisor,Bengaluru,2024-04-16,Active
+EMP00197,Ishaan Verma,Manager,Kolkata,2018-06-02,Active
+EMP00198,Rohan Shah,Analyst,Kolkata,2026-01-26,Active
+EMP00199,Ananya Shah,Warehouse Associate,Lucknow,2018-12-28,Active
+EMP00200,Simran Mehta,Supervisor,Kochi,2020-07-15,Active
+EMP00201,Vivaan Mehta,Operations,Nagpur,2023-02-25,Active
+EMP00202,Reyansh Gupta,Analyst,Noida,2018-02-07,Active
+EMP00203,Sneha Yadav,Analyst,Bhopal,2024-08-15,Active
+EMP00204,Ananya Malhotra,Operations,Pune,2026-02-09,Active
+EMP00205,Kabir Yadav,Operations,Kolkata,2021-07-30,On Leave
+EMP00206,Rohan Singh,Customer Support,Kochi,2019-01-22,Exited
+EMP00207,Meera Mehta,Supervisor,Kolkata,2023-02-26,Active
+EMP00208,Kavya Gupta,Operations,Kolkata,2024-10-21,Active
+EMP00209,Kavya Mehta,Operations,Surat,2026-07-08,Active
+EMP00210,Krishna Shah,Manager,Bhopal,2020-05-18,Active
+EMP00211,Aditi Shah,Supervisor,Bhopal,2020-06-17,Active
+EMP00212,Meera Malhotra,Analyst,Indore,2018-09-22,Active
+EMP00213,Krishna Kumar,Supervisor,Noida,2018-05-21,Active
+EMP00214,Reyansh Kumar,Manager,Ahmedabad,2024-06-11,Exited
+EMP00215,Aditi Malhotra,Manager,Chandigarh,2019-12-10,Active
+EMP00216,Arjun Sharma,Manager,Delhi,2020-08-28,Active
+EMP00217,Sneha Patel,Customer Support,Mumbai,2021-11-27,Active
+EMP00218,Kavya Mehta,Operations,Kochi,2018-09-05,Active
+EMP00219,Rahul Sharma,Supervisor,Mumbai,2024-10-19,Active
+EMP00220,Meera Reddy,Operations,Noida,2022-12-24,Active
+EMP00221,Ananya Patel,Customer Support,Pune,2021-09-01,Active
+EMP00222,Kabir Reddy,Supervisor,Indore,2020-01-15,Active
+EMP00223,Kavya Gupta,Customer Support,Lucknow,2023-02-25,Active
+EMP00224,Aditi Sharma,Manager,Pune,2024-04-17,Active
+EMP00225,Aditya Jain,Warehouse Associate,Chandigarh,2022-12-13,Active
+EMP00226,Kavya Joshi,Manager,Nagpur,2024-08-17,Active
+EMP00227,Rahul Verma,Analyst,Bhopal,2022-04-08,Active
+EMP00228,Ishaan Verma,Supervisor,Chennai,2019-01-28,Active
+EMP00229,Kavya Malhotra,Supervisor,Kochi,2019-05-24,Active
+EMP00230,Sneha Verma,Supervisor,Nagpur,2024-12-14,Active
+EMP00231,Rohan Yadav,Customer Support,Chennai,2018-08-06,Active
+EMP00232,Meera Sharma,Analyst,Noida,2021-12-25,Exited
+EMP00233,Kavya Sharma,Operations,Indore,2019-10-11,Active
+EMP00234,Arjun Patel,Manager,Noida,2024-08-13,On Leave
+EMP00235,Ananya Das,Operations,Nagpur,2020-05-13,Active
+EMP00236,Aditi Yadav,Operations,Chennai,2024-09-04,Exited
+EMP00237,Kabir Joshi,Customer Support,Hyderabad,2019-08-23,Active
+EMP00238,Priya Sharma,Operations,Kochi,2023-04-28,Active
+EMP00239,Meera Sharma,Analyst,Mumbai,2019-09-07,Exited
+EMP00240,Ananya Malhotra,Warehouse Associate,Delhi,2022-02-01,Active
+EMP00241,Arjun Kumar,Warehouse Associate,Surat,2023-04-28,Active
+EMP00242,Kavya Gupta,Customer Support,Kochi,2019-05-08,Active
+EMP00243,Ishaan Shah,Manager,Bengaluru,2021-12-23,Active
+EMP00244,Arjun Kumar,Warehouse Associate,Bhopal,2024-03-27,Active
+EMP00245,Reyansh Sharma,Manager,Chandigarh,2020-03-10,Active
+EMP00246,Pooja Sharma,Customer Support,Surat,2018-06-18,Active
+EMP00247,Meera Shah,Customer Support,Kolkata,2020-01-24,Active
+EMP00248,Arjun Gupta,Manager,Pune,2021-06-17,Active
+EMP00249,Arjun Joshi,Customer Support,Kolkata,2019-04-03,Active
+EMP00250,Meera Gupta,Analyst,Noida,2025-01-18,Active
+EMP00251,Aditya Patel,Customer Support,Surat,2024-01-20,Active
+EMP00252,Ananya Sharma,Supervisor,Surat,2022-06-07,Active
+EMP00253,Krishna Jain,Warehouse Associate,Kolkata,2022-03-01,Active
+EMP00254,Arjun Joshi,Warehouse Associate,Mumbai,2024-12-15,Active
+EMP00255,Aditi Joshi,Operations,Jaipur,2023-10-25,On Leave
+EMP00256,Arjun Patel,Warehouse Associate,Lucknow,2024-01-13,Active
+EMP00257,Krishna Sharma,Analyst,Delhi,2021-04-24,Active
+EMP00258,Aditi Das,Warehouse Associate,Nagpur,2018-01-17,Active
+EMP00259,Ishaan Kumar,Supervisor,Hyderabad,2018-09-29,Active
+EMP00260,Meera Shah,Supervisor,Gurugram,2024-06-11,Active
+EMP00261,Priya Sharma,Manager,Kolkata,2025-03-14,Active
+EMP00262,Aditya Verma,Customer Support,Chandigarh,2018-10-26,On Leave
+EMP00263,Aditi Malhotra,Supervisor,Noida,2018-05-13,Active
+EMP00264,Aditi Das,Manager,Surat,2020-01-21,Active
+EMP00265,Ananya Das,Operations,Mumbai,2021-03-20,Active
+EMP00266,Meera Mehta,Operations,Pune,2019-08-05,Active
+EMP00267,Aditi Shah,Operations,Kolkata,2023-02-13,Active
+EMP00268,Sneha Das,Operations,Surat,2025-10-19,Active
+EMP00269,Isha Gupta,Operations,Kolkata,2023-10-25,Active
+EMP00270,Krishna Reddy,Analyst,Ahmedabad,2020-11-28,Active
+EMP00271,Kavya Mehta,Analyst,Bhopal,2022-03-20,Active
+EMP00272,Isha Gupta,Operations,Surat,2026-04-11,Active
+EMP00273,Isha Das,Operations,Chennai,2024-12-27,Active
+EMP00274,Vivaan Das,Manager,Noida,2019-05-09,On Leave
+EMP00275,Neha Singh,Analyst,Surat,2022-03-13,Active
+EMP00276,Vivaan Gupta,Analyst,Chennai,2018-09-22,Exited
+EMP00277,Rohan Shah,Analyst,Surat,2025-04-24,Active
+EMP00278,Ananya Reddy,Supervisor,Jaipur,2024-01-28,Active
+EMP00279,Simran Gupta,Warehouse Associate,Hyderabad,2020-02-28,Active
+EMP00280,Arjun Das,Warehouse Associate,Bhopal,2024-07-11,Active
+EMP00281,Pooja Verma,Customer Support,Kolkata,2022-02-18,Active
+EMP00282,Priya Shah,Operations,Jaipur,2024-12-18,Active
+EMP00283,Ananya Singh,Manager,Indore,2018-04-09,Active
+EMP00284,Simran Gupta,Manager,Hyderabad,2021-10-03,Active
+EMP00285,Kabir Reddy,Operations,Chennai,2023-01-22,Active
+EMP00286,Aditya Joshi,Customer Support,Chandigarh,2018-12-01,Active
+EMP00287,Aarav Das,Supervisor,Bhopal,2021-07-10,Exited
+EMP00288,Rohan Shah,Supervisor,Hyderabad,2024-06-18,Active
+EMP00289,Meera Shah,Supervisor,Nagpur,2023-12-17,On Leave
+EMP00290,Reyansh Kumar,Customer Support,Delhi,2018-12-04,Active
+EMP00291,Aditya Yadav,Manager,Noida,2024-06-29,Active
+EMP00292,Aarav Das,Analyst,Jaipur,2024-05-07,Active
+EMP00293,Priya Shah,Manager,Bengaluru,2021-10-15,Active
+EMP00294,Rohan Mehta,Warehouse Associate,Bhopal,2025-03-02,Active
+EMP00295,Ishaan Mehta,Manager,Delhi,2023-04-28,Active
+EMP00296,Ananya Reddy,Supervisor,Pune,2026-09-29,Active
+EMP00297,Ishaan Shah,Supervisor,Jaipur,2024-05-27,Active
+EMP00298,Vivaan Sharma,Operations,Chandigarh,2026-09-26,Active
+EMP00299,Kabir Shah,Manager,Chennai,2025-04-27,Active
+EMP00300,Neha Patel,Operations,Delhi,2020-12-06,Active
+EMP00301,Ananya Jain,Supervisor,Indore,2018-12-02,Active
+EMP00302,Simran Jain,Manager,Mumbai,2023-07-07,Active
+EMP00303,Aarav Sharma,Customer Support,Lucknow,2022-10-17,Active
+EMP00304,Vivaan Yadav,Operations,Chandigarh,2026-08-17,Active
+EMP00305,Arjun Joshi,Manager,Noida,2026-02-02,Exited
+EMP00306,Aarav Malhotra,Customer Support,Mumbai,2018-01-12,Active
+EMP00307,Aditi Jain,Warehouse Associate,Gurugram,2020-06-26,On Leave
+EMP00308,Aditi Sharma,Warehouse Associate,Delhi,2022-06-28,Active
+EMP00309,Neha Malhotra,Manager,Delhi,2023-07-02,Exited
+EMP00310,Reyansh Das,Customer Support,Chennai,2021-06-26,Active
+EMP00311,Isha Jain,Supervisor,Chandigarh,2020-06-20,Active
+EMP00312,Arjun Patel,Warehouse Associate,Hyderabad,2021-12-15,Active
+EMP00313,Meera Patel,Manager,Bhopal,2025-01-12,Exited
+EMP00314,Krishna Singh,Supervisor,Bengaluru,2026-03-26,Active
+EMP00315,Aarav Patel,Customer Support,Lucknow,2024-07-03,Active
+EMP00316,Arjun Gupta,Operations,Lucknow,2019-06-04,Active
+EMP00317,Priya Kumar,Warehouse Associate,Gurugram,2026-04-22,Active
+EMP00318,Neha Joshi,Analyst,Kolkata,2022-08-25,On Leave
+EMP00319,Kabir Yadav,Analyst,Bengaluru,2024-02-12,Active
+EMP00320,Ishaan Yadav,Manager,Indore,2023-12-06,Active
+EMP00321,Arjun Reddy,Operations,Noida,2022-04-12,Active
+EMP00322,Aditya Shah,Customer Support,Noida,2022-08-16,Active
+EMP00323,Kavya Mehta,Operations,Surat,2022-09-25,Active
+EMP00324,Neha Patel,Analyst,Kochi,2019-02-24,On Leave
+EMP00325,Aditya Mehta,Operations,Chandigarh,2024-10-26,Active
+EMP00326,Arjun Shah,Operations,Jaipur,2020-09-26,Active
+EMP00327,Priya Kumar,Manager,Delhi,2024-06-15,Active
+EMP00328,Rohan Joshi,Operations,Hyderabad,2018-03-26,Active
+EMP00329,Arjun Jain,Manager,Pune,2019-01-12,Active
+EMP00330,Kabir Malhotra,Analyst,Pune,2020-05-01,Exited
+EMP00331,Kabir Gupta,Customer Support,Nagpur,2020-08-13,Exited
+EMP00332,Ananya Joshi,Operations,Mumbai,2018-11-28,Active
+EMP00333,Sneha Malhotra,Warehouse Associate,Chandigarh,2023-12-21,Active
+EMP00334,Krishna Shah,Warehouse Associate,Lucknow,2018-07-31,Active
+EMP00335,Neha Malhotra,Supervisor,Pune,2018-11-19,Active
+EMP00336,Neha Jain,Warehouse Associate,Indore,2023-05-19,Active
+EMP00337,Neha Singh,Warehouse Associate,Gurugram,2023-10-10,Exited
+EMP00338,Simran Reddy,Warehouse Associate,Kochi,2023-09-24,Active
+EMP00339,Reyansh Mehta,Operations,Bengaluru,2025-07-21,Active
+EMP00340,Neha Singh,Manager,Chennai,2024-11-24,Active
+EMP00341,Aarav Singh,Manager,Surat,2021-03-20,Active
+EMP00342,Ishaan Gupta,Warehouse Associate,Kochi,2023-08-17,On Leave
+EMP00343,Neha Joshi,Warehouse Associate,Jaipur,2019-11-28,Active
+EMP00344,Simran Das,Manager,Jaipur,2025-03-14,Active
+EMP00345,Aditya Kumar,Operations,Hyderabad,2025-06-21,Exited
+EMP00346,Neha Singh,Analyst,Mumbai,2022-11-13,Active
+EMP00347,Rohan Shah,Operations,Mumbai,2022-03-19,Active
+EMP00348,Priya Malhotra,Operations,Delhi,2023-06-08,Active
+EMP00349,Pooja Das,Manager,Delhi,2025-04-13,Exited
+EMP00350,Kavya Sharma,Customer Support,Kolkata,2025-12-25,Exited
+EMP00351,Kabir Joshi,Supervisor,Noida,2018-09-07,Exited
+EMP00352,Kavya Jain,Operations,Noida,2023-04-06,Active
+EMP00353,Rahul Malhotra,Customer Support,Chandigarh,2019-11-08,Active
+EMP00354,Reyansh Gupta,Customer Support,Noida,2018-07-18,Active
+EMP00355,Meera Yadav,Operations,Noida,2018-01-04,Active
+EMP00356,Rohan Verma,Analyst,Kolkata,2018-11-01,Active
+EMP00357,Simran Jain,Customer Support,Pune,2021-12-02,Active
+EMP00358,Simran Singh,Manager,Jaipur,2025-06-29,Active
+EMP00359,Vivaan Jain,Analyst,Bhopal,2025-09-19,Active
+EMP00360,Neha Shah,Customer Support,Ahmedabad,2024-10-28,Exited
+EMP00361,Kavya Sharma,Operations,Kochi,2023-08-24,Active
+EMP00362,Reyansh Jain,Warehouse Associate,Pune,2023-05-04,Active
+EMP00363,Rahul Joshi,Warehouse Associate,Gurugram,2018-02-26,Active
+EMP00364,Meera Joshi,Manager,Noida,2025-03-12,Active
+EMP00365,Sneha Mehta,Warehouse Associate,Noida,2018-03-21,Active
+EMP00366,Ishaan Das,Customer Support,Mumbai,2024-11-24,Active
+EMP00367,Rohan Yadav,Manager,Hyderabad,2024-04-20,Active
+EMP00368,Aditya Jain,Operations,Noida,2020-04-25,Exited
+EMP00369,Meera Gupta,Customer Support,Kochi,2018-10-24,Active
+EMP00370,Kavya Reddy,Manager,Lucknow,2025-09-15,Active
+EMP00371,Sneha Jain,Manager,Mumbai,2019-12-05,Active
+EMP00372,Kabir Shah,Customer Support,Kochi,2022-08-28,Active
+EMP00373,Kabir Singh,Supervisor,Bhopal,2024-02-10,Active
+EMP00374,Rohan Gupta,Warehouse Associate,Bhopal,2022-01-17,Active
+EMP00375,Rohan Singh,Customer Support,Jaipur,2020-03-05,Active
+EMP00376,Vivaan Das,Manager,Noida,2022-04-18,Active
+EMP00377,Reyansh Mehta,Customer Support,Mumbai,2022-04-16,Active
+EMP00378,Aditi Das,Customer Support,Delhi,2021-11-16,Active
+EMP00379,Krishna Singh,Warehouse Associate,Mumbai,2021-06-17,Active
+EMP00380,Arjun Patel,Analyst,Jaipur,2018-06-18,Active
+EMP00381,Kabir Das,Supervisor,Nagpur,2021-01-03,Active
+EMP00382,Pooja Mehta,Supervisor,Delhi,2021-03-14,Active
+EMP00383,Rohan Patel,Warehouse Associate,Gurugram,2020-03-18,Active
+EMP00384,Sneha Kumar,Customer Support,Indore,2018-12-15,Active
+EMP00385,Aditi Patel,Operations,Jaipur,2021-07-26,Active
+EMP00386,Ishaan Singh,Manager,Delhi,2026-01-28,Active
+EMP00387,Aditi Das,Manager,Surat,2019-08-08,Active
+EMP00388,Priya Gupta,Manager,Surat,2024-01-29,Active
+EMP00389,Arjun Das,Manager,Lucknow,2026-05-09,Active
+EMP00390,Kabir Verma,Manager,Kochi,2026-05-31,Active
+EMP00391,Krishna Patel,Analyst,Kochi,2020-10-07,Exited
+EMP00392,Priya Jain,Supervisor,Noida,2019-03-14,Active
+EMP00393,Aarav Joshi,Warehouse Associate,Kochi,2024-05-18,Active
+EMP00394,Vivaan Das,Operations,Chandigarh,2020-08-30,Active
+EMP00395,Rohan Kumar,Operations,Indore,2020-07-24,Exited
+EMP00396,Priya Patel,Analyst,Mumbai,2024-04-29,On Leave
+EMP00397,Rahul Malhotra,Warehouse Associate,Mumbai,2020-04-17,Active
+EMP00398,Vivaan Shah,Operations,Bengaluru,2022-07-16,Active
+EMP00399,Aditya Reddy,Manager,Nagpur,2022-03-23,Active
+EMP00400,Aditya Shah,Operations,Jaipur,2025-05-21,Active
+EMP00401,Vivaan Singh,Operations,Noida,2024-05-29,Exited
+EMP00402,Pooja Jain,Supervisor,Gurugram,2021-03-22,Active
+EMP00403,Krishna Jain,Warehouse Associate,Jaipur,2018-01-13,Active
+EMP00404,Sneha Patel,Operations,Chandigarh,2020-03-07,Active
+EMP00405,Rahul Sharma,Analyst,Indore,2019-07-01,Exited
+EMP00406,Meera Singh,Customer Support,Nagpur,2024-11-13,Active
+EMP00407,Meera Kumar,Supervisor,Mumbai,2024-10-09,Active
+EMP00408,Aditi Patel,Warehouse Associate,Kolkata,2018-05-12,Active
+EMP00409,Simran Singh,Customer Support,Hyderabad,2021-02-01,Active
+EMP00410,Kabir Kumar,Customer Support,Ahmedabad,2019-04-23,Exited
+EMP00411,Rohan Malhotra,Customer Support,Chandigarh,2025-06-25,Active
+EMP00412,Aditya Kumar,Manager,Hyderabad,2024-04-26,Active
+EMP00413,Ananya Singh,Customer Support,Noida,2019-03-02,Active
+EMP00414,Isha Jain,Manager,Delhi,2024-01-26,Active
+EMP00415,Ananya Sharma,Manager,Ahmedabad,2025-02-10,Active
+EMP00416,Reyansh Singh,Operations,Nagpur,2018-07-28,Active
+EMP00417,Ishaan Sharma,Warehouse Associate,Chandigarh,2023-06-11,Active
+EMP00418,Krishna Sharma,Analyst,Bhopal,2022-08-09,Active
+EMP00419,Kavya Malhotra,Operations,Nagpur,2019-06-23,Exited
+EMP00420,Aditya Sharma,Analyst,Ahmedabad,2026-01-18,Active
+EMP00421,Krishna Gupta,Supervisor,Bengaluru,2018-02-09,Active
+EMP00422,Ishaan Gupta,Warehouse Associate,Gurugram,2022-04-20,Active
+EMP00423,Kabir Das,Customer Support,Kolkata,2025-09-17,Active
+EMP00424,Ishaan Kumar,Warehouse Associate,Nagpur,2020-09-21,Active
+EMP00425,Simran Gupta,Supervisor,Pune,2020-07-11,Active
+EMP00426,Priya Malhotra,Analyst,Ahmedabad,2024-05-13,Active
+EMP00427,Ishaan Singh,Customer Support,Surat,2020-02-11,Active
+EMP00428,Ishaan Joshi,Manager,Indore,2022-05-28,Active
+EMP00429,Priya Reddy,Supervisor,Hyderabad,2019-08-11,Active
+EMP00430,Rohan Shah,Analyst,Kochi,2018-08-06,Active
+EMP00431,Kavya Das,Customer Support,Kolkata,2021-02-08,Active
+EMP00432,Aditya Singh,Manager,Chandigarh,2019-03-30,Active
+EMP00433,Ishaan Das,Manager,Surat,2022-08-01,Exited
+EMP00434,Kabir Malhotra,Manager,Nagpur,2022-04-19,Active
+EMP00435,Meera Joshi,Operations,Chandigarh,2022-03-07,Active
+EMP00436,Krishna Sharma,Operations,Indore,2026-06-20,Active
+EMP00437,Reyansh Shah,Manager,Delhi,2025-06-12,On Leave
+EMP00438,Rohan Reddy,Analyst,Nagpur,2021-10-17,On Leave
+EMP00439,Isha Reddy,Customer Support,Nagpur,2019-09-23,Active
+EMP00440,Meera Gupta,Customer Support,Hyderabad,2019-10-22,Active
+EMP00441,Vivaan Verma,Operations,Mumbai,2024-07-13,Active
+EMP00442,Aditi Das,Customer Support,Nagpur,2025-05-19,Active
+EMP00443,Priya Gupta,Operations,Ahmedabad,2025-12-14,Active
+EMP00444,Ishaan Gupta,Customer Support,Hyderabad,2026-02-08,Active
+EMP00445,Arjun Joshi,Customer Support,Chennai,2018-04-28,Active
+EMP00446,Isha Shah,Customer Support,Noida,2025-04-06,Active
+EMP00447,Aditi Yadav,Analyst,Noida,2024-07-28,Active
+EMP00448,Aditya Das,Manager,Noida,2019-06-15,Active
+EMP00449,Aditi Mehta,Customer Support,Pune,2020-05-26,Active
+EMP00450,Priya Malhotra,Analyst,Indore,2026-06-26,On Leave
+EMP00451,Kabir Mehta,Supervisor,Bhopal,2021-12-01,Active
+EMP00452,Priya Yadav,Analyst,Delhi,2024-02-01,Active
+EMP00453,Simran Malhotra,Warehouse Associate,Gurugram,2018-07-15,Active
+EMP00454,Kabir Reddy,Supervisor,Chandigarh,2023-08-08,Active
+EMP00455,Kavya Yadav,Customer Support,Pune,2020-07-29,Active
+EMP00456,Aarav Malhotra,Manager,Chandigarh,2024-10-13,Active
+EMP00457,Neha Gupta,Manager,Kochi,2018-12-25,Active
+EMP00458,Neha Sharma,Warehouse Associate,Surat,2026-09-12,Active
+EMP00459,Neha Verma,Supervisor,Indore,2020-01-14,Active
+EMP00460,Rohan Malhotra,Operations,Chandigarh,2021-07-28,Active
+EMP00461,Vivaan Kumar,Analyst,Lucknow,2018-04-15,Active
+EMP00462,Vivaan Reddy,Operations,Mumbai,2018-11-05,Active
+EMP00463,Ishaan Shah,Operations,Lucknow,2026-03-19,Active
+EMP00464,Aditya Das,Analyst,Bhopal,2024-02-20,Active
+EMP00465,Reyansh Patel,Supervisor,Lucknow,2025-10-31,Exited
+EMP00466,Aarav Verma,Warehouse Associate,Surat,2025-05-24,Active
+EMP00467,Rohan Shah,Analyst,Ahmedabad,2023-09-11,Active
+EMP00468,Simran Kumar,Analyst,Delhi,2023-08-28,Active
+EMP00469,Aditya Yadav,Manager,Kochi,2020-11-05,Active
+EMP00470,Rohan Malhotra,Analyst,Jaipur,2024-02-17,Active
+EMP00471,Ishaan Joshi,Customer Support,Mumbai,2026-04-02,Active
+EMP00472,Kabir Mehta,Manager,Chandigarh,2020-01-17,Active
+EMP00473,Ananya Shah,Customer Support,Kolkata,2026-07-02,Active
+EMP00474,Simran Malhotra,Analyst,Bhopal,2022-07-30,Active
+EMP00475,Arjun Patel,Operations,Indore,2024-12-13,Active
+EMP00476,Ishaan Kumar,Customer Support,Nagpur,2021-02-07,Active
+EMP00477,Aditya Mehta,Warehouse Associate,Nagpur,2023-12-18,Exited
+EMP00478,Aarav Malhotra,Analyst,Indore,2022-11-14,Active
+EMP00479,Neha Das,Analyst,Bengaluru,2020-11-16,Active
+EMP00480,Krishna Malhotra,Analyst,Bhopal,2018-03-28,Active
+EMP00481,Reyansh Sharma,Analyst,Delhi,2025-09-23,Active
+EMP00482,Kabir Patel,Customer Support,Lucknow,2024-01-26,Active
+EMP00483,Rahul Gupta,Operations,Bhopal,2022-05-17,Active
+EMP00484,Kabir Sharma,Warehouse Associate,Surat,2022-10-18,Active
+EMP00485,Pooja Malhotra,Manager,Nagpur,2023-07-14,Active
+EMP00486,Isha Joshi,Analyst,Bengaluru,2018-03-25,Active
+EMP00487,Rohan Shah,Manager,Chandigarh,2019-07-08,Active
+EMP00488,Arjun Shah,Operations,Mumbai,2026-08-29,Active
+EMP00489,Vivaan Kumar,Warehouse Associate,Ahmedabad,2018-03-10,Active
+EMP00490,Neha Gupta,Customer Support,Kolkata,2018-12-18,Active
+EMP00491,Sneha Patel,Operations,Chennai,2026-08-22,Active
+EMP00492,Isha Jain,Operations,Indore,2024-11-12,Exited
+EMP00493,Neha Shah,Supervisor,Nagpur,2023-06-09,Active
+EMP00494,Aditi Kumar,Analyst,Kolkata,2026-01-12,Active
+EMP00495,Aditi Singh,Manager,Indore,2023-12-30,Active
+EMP00496,Meera Joshi,Manager,Indore,2018-10-09,Active
+EMP00497,Priya Shah,Supervisor,Chandigarh,2018-06-10,On Leave
+EMP00498,Simran Malhotra,Analyst,Pune,2025-09-05,Active
+EMP00499,Sneha Verma,Warehouse Associate,Kochi,2021-09-08,Active
+EMP00500,Kabir Mehta,Analyst,Chandigarh,2021-02-02,Exited

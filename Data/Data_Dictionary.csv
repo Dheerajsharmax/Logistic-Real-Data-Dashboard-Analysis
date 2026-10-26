@@ -1,0 +1,20 @@
+﻿File_Name,Primary_Key,Description
+Customers.csv,Customer_ID,Customer master records
+Addresses.csv,Address_ID,Billing and delivery addresses
+Orders.csv,Order_ID,"100,000 customer orders; main fact table"
+Shipments.csv,Shipment_ID,Shipment execution and weight details; one per order
+Shipment_Items.csv,Shipment_Item_ID,Items inside shipments; multiple per shipment
+Tracking.csv,Tracking_ID,Shipment tracking events; multiple per shipment
+Weight_Disputes.csv,Dispute_ID,Weight mismatch disputes; subset of shipments
+Payments.csv,Payment_ID,Payment transaction records; one per order
+Invoices.csv,Invoice_ID,Invoice and GST information; one per order
+Returns.csv,Return_ID,Returned orders; subset of orders
+Delivery_Exceptions.csv,Exception_ID,Delivery issue records; subset of shipments
+Drivers.csv,Driver_ID,Driver master records
+Vehicles.csv,Vehicle_ID,Vehicle master records
+Warehouses.csv,Warehouse_ID,Warehouse master records
+Employees.csv,Employee_ID,Employee master records
+Vendors.csv,Vendor_ID,Vendor and partner master records
+Routes.csv,Route_ID,Synthetic route reference data
+Fuel_Expenses.csv,Fuel_Expense_ID,Vehicle fuel expenses
+Shipping_Rates.csv,Rate_ID,Synthetic shipping price rules
